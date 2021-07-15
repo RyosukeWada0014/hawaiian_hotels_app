@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hawaiian_hotels_app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hawaiian_hotels_app/static/js/main.21ff001d.chunk.js",
+    "main.js.map": "/hawaiian_hotels_app/static/js/main.21ff001d.chunk.js.map",
+    "runtime-main.js": "/hawaiian_hotels_app/static/js/runtime-main.0f059822.js",
+    "runtime-main.js.map": "/hawaiian_hotels_app/static/js/runtime-main.0f059822.js.map",
+    "static/js/2.07ca4e11.chunk.js": "/hawaiian_hotels_app/static/js/2.07ca4e11.chunk.js",
+    "static/js/2.07ca4e11.chunk.js.map": "/hawaiian_hotels_app/static/js/2.07ca4e11.chunk.js.map",
+    "index.html": "/hawaiian_hotels_app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hawaiian_hotels_app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.07ca4e11.chunk.js.LICENSE.txt": "/hawaiian_hotels_app/static/js/2.07ca4e11.chunk.js.LICENSE.txt",
+    "static/media/img1.32048551.jpg": "/hawaiian_hotels_app/static/media/img1.32048551.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f059822.js",
+    "static/js/2.07ca4e11.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.21ff001d.chunk.js"
+  ]
+}
