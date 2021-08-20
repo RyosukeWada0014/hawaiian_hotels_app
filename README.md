@@ -1,7 +1,7 @@
 # 使用ツール
 React\
 TypeScript\
-Chakra UI\
+Chakra UI
 
 # Getting Started with Create React App
 
